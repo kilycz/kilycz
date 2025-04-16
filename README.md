@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#1af793&height=70&section=header"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=1a7ef7&width=800&lines=Olá+Seja+bem+vindo+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=00ffbf&width=800&lines=Olá+Seja+bem+vindo+ao+meu+perfil!" />
 </p>
 
 ⋆ Meu nome e Kimberly!
