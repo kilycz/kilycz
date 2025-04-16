@@ -12,7 +12,7 @@
 
 # super relevante!!
 
-![scratch](https://img.shields.io/badge/17-anos-ffb3b3?style=for-the-badge&logo=nike&logoColor=white)
+![scratch](https://img.shields.io/badge/17anos-ffb3b3?style=for-the-badge&logo=nike&logoColor=white)
 ![scratch](https://img.shields.io/badge/entp-ffb3ff?style=for-the-badge&logo=nike&logoColor=white)
 ![scratch](https://img.shields.io/badge/gatitos-80ffaa?style=for-the-badge&logo=nike&logoColor=white)
 
