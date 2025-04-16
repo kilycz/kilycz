@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7931E&height=70&section=header"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=F7931E&width=800&lines=Olá+Seja+bem+vindo+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=#1af793E&width=800&lines=Olá+Seja+bem+vindo+ao+meu+perfil!" />
 </p>
 
 ⋆ Meu nome e Kimberly!
@@ -10,7 +10,7 @@
 
 ⋆ Programação é difícil :(
 
-![](https://media.tenor.com/wiNiG9cse80AAAAM/toro-inoue-playstation.gif)
+![](https://i.pinimg.com/originals/14/db/ab/14dbab0d7ba16735863dff0a7002b455.gif)
 
 # áreas de interesse
 
