@@ -10,11 +10,11 @@
 
 ⋆ Programação é difícil :(
 
-![](https://media.tenor.com/MGCdEpM7WVIAAAAi/smile-cute.gif)
+![](https://media.tenor.com/wiNiG9cse80AAAAM/toro-inoue-playstation.gif)
 
 # áreas de interesse
 
-![scratch](https://img.shields.io/badge/garfield-F7931E?style=for-the-badge&logo=nike&logoColor=white)
+![scratch](https://img.shields.io/badge/viver-F7931E?style=for-the-badge&logo=nike&logoColor=white)
 
 ## ⇢ Github Status
 ![natyy200 Stats](https://github-readme-stats.vercel.app/api?username=kilycz&theme=material-palenight&show_icons=true&hide_border=false&count_private=true&title_color=ffffff&text_color=c9d1d9&bg_color=151515)
