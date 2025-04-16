@@ -14,7 +14,9 @@
 
 # áreas de interesse
 
-![scratch](https://img.shields.io/badge/viver-1af793?style=for-the-badge&logo=nike&logoColor=white)
+![scratch](https://img.shields.io/badge/conversar-1af793?style=for-the-badge&logo=nike&logoColor=white)
+![scratch](https://img.shields.io/badge/psicologia-1af793?style=for-the-badge&logo=nike&logoColor=white)
+![scratch](https://img.shields.io/badge/livros-1af793?style=for-the-badge&logo=nike&logoColor=white)
 
 ## ⇢ Github Status
 ![natyy200 Stats](https://github-readme-stats.vercel.app/api?username=kilycz&theme=material-palenight&show_icons=true&hide_border=false&count_private=true&title_color=ffffff&text_color=c9d1d9&bg_color=151515)
