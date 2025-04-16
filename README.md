@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6666ff&height=70&section=header"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=6666ff&width=800&lines=Olá+Seja+bem+vindo+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=6666ff&width=800&lines=Olá+Seja+bem+vindo+ao+meu+perfil!+Aceita+um+café?+☕" />
 </p>
 
 ⋆ Programação é difícil :(
