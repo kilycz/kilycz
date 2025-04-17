@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=6666ff&width=800&lines=┊☁୧‧₊˚┊+𝗯𝗲𝗺+𝘃𝗶𝗻𝗱𝗼!!+𝗮𝗰𝗲𝗶𝘁𝗮+𝗰𝗮𝗳𝗲́?˙ᵕ˙☕︎" />
 </p>
 
-‧₊˚🖇️✩ ₊˚🎧⊹♡「 ✦ Meu nome é Kimberly ✦ 」
+༘⋆📼˚ ༘ ೀ⋆｡˚「 ✦ Meu nome é Kimberly ✦ 」
 
 ⤷ Programação é difícil :(
 
