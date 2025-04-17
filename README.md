@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6666ff&height=70&section=header"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=6666ff&width=800&lines=┊☁୧°˚┊+𝗯𝗲𝗺+𝘃𝗶𝗻𝗱𝗼!+𝗮𝗰𝗲𝗶𝘁𝗮+𝗰𝗮𝗳𝗲́?˙ᵕ˙☕︎" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=6666ff&width=800&lines=┊☁୧°˚┊+𝗯𝗲𝗺+𝘃𝗶𝗻𝗱𝗼!+𝗮𝗰𝗲𝗶𝘁𝗮+𝗰𝗮𝗳𝗲?(⁠o⁠´⁠･⁠_⁠･⁠)⁠っ☕︎" />
 </p>
 
 ༘⋆📼˚ ༘ ೀ⋆｡˚「 ✦ Meu nome é Kimberly ✦ 」
