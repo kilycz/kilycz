@@ -1,18 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6666ff&height=70&section=header"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=6666ff&width=800&lines=𝔹𝔼𝕄+𝕍𝕀ℕ𝔻𝕆‼+𝔸ℂ𝔼𝕀𝕋𝔸+ℂ𝔸𝔽𝔼？+☕" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=6666ff&width=800&lines=𝗯𝗲𝗺+𝘃𝗶𝗻𝗱𝗼!!+𝗮𝗰𝗲𝗶𝘁𝗮+𝗰𝗮𝗳𝗲́?+☕︎" />
 </p>
 
-⋆ Programação é difícil :(
+‧₊˚🖇️✩ ₊˚🎧⊹♡「 ✦ Meu nome é Kimberly ✦ 」
 
-⋆ Mas eu gosto de deixar tudo bonitinho :)
+⤷ Programação é difícil :(
+
+⤷ Mas eu gosto de deixar tudo bonitinho :)
 
 ![](https://i.pinimg.com/originals/14/db/ab/14dbab0d7ba16735863dff0a7002b455.gif)
 
 # super relevante!!
 
-![scratch](https://img.shields.io/badge/17anos-ffb3b3?style=for-the-badge&logo=nike&logoColor=white)
+![scratch](https://img.shields.io/badge/17+anos-ffb3b3?style=for-the-badge&logo=nike&logoColor=white)
 ![scratch](https://img.shields.io/badge/entp-ffb3ff?style=for-the-badge&logo=nike&logoColor=white)
 ![scratch](https://img.shields.io/badge/gatitos-80ffaa?style=for-the-badge&logo=nike&logoColor=white)
 
