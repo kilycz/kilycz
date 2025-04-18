@@ -5,9 +5,7 @@
 
 ༘⋆📼˚ ༘ ೀ⋆｡˚「 ✦ Meu nome é Kimberly ✦ 」
 
-⤷ Programação é difícil :(
-
-⤷ Mas eu gosto de deixar tudo bonitinho :)
+⤷ Programação é difícil... Mas eu gosto de deixar tudo bonitinho :)
 
 ![](https://i.pinimg.com/originals/14/db/ab/14dbab0d7ba16735863dff0a7002b455.gif)
 
