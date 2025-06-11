@@ -7,7 +7,7 @@
 
 ⤷ Programação é difícil... Mas eu gosto de deixar tudo bonitinho :)
 
-![](https://i.pinimg.com/originals/14/db/ab/14dbab0d7ba16735863dff0a7002b455.gif)
+![](https://media.tenor.com/STjsyZzENwsAAAAj/y2k.gif)
 
 # super relevante!!
 
