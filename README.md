@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6666ff&height=70&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=151515&height=70&section=header"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=6666ff&width=800&lines=┊☁୧°˚┊+𝗯𝗲𝗺+𝘃𝗶𝗻𝗱𝗼!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=151515&width=800&lines=┊☁୧°˚┊+𝗯𝗲𝗺+𝘃𝗶𝗻𝗱𝗼!"/>
 
 ༘⋆📼˚ ༘ ೀ⋆｡˚「 ✦ Meu nome é Kimberly ✦ 」
 
@@ -11,9 +11,9 @@
 
 # super relevante!!
 
-![scratch](https://img.shields.io/badge/17anos-ffb3b3?style=for-the-badge&logo=nike&logoColor=white)
-![scratch](https://img.shields.io/badge/entp-ffb3ff?style=for-the-badge&logo=nike&logoColor=white)
-![scratch](https://img.shields.io/badge/gatitos-80ffaa?style=for-the-badge&logo=nike&logoColor=white)
+![scratch](https://img.shields.io/badge/17anos-151515?style=for-the-badge&logo=nike&logoColor=white)
+![scratch](https://img.shields.io/badge/entp-151515?style=for-the-badge&logo=nike&logoColor=white)
+![scratch](https://img.shields.io/badge/gatitos-151515?style=for-the-badge&logo=nike&logoColor=white)
 
 ## ⇢ Github Status
 ![natyy200 Stats](https://github-readme-stats.vercel.app/api?username=kilycz&theme=material-palenight&show_icons=true&hide_border=false&count_private=true&title_color=ffffff&text_color=ffb3b3_color=008080)
