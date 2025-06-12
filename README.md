@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=151515&height=70&section=header"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=151515&width=800&lines=﹒⌗﹒🦇﹒౨ৎ˚₊+𝗯𝗲𝗺+𝘃𝗶𝗻𝗱𝗼!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=151515&width=800&lines=﹒⌗﹒🦇﹒౨ৎ˚seja+bem+vindo!"/>
 
-༘⋆📼˚ ༘ ೀ⋆｡˚「 ✦ Meu nome é Kimberly ✦ 」
+༘⋆📼˚ ༘ ೀ⋆｡˚「 ✦ eu sou a Kimberly ✦ 」
 
-⤷ Programação é difícil... Mas eu gosto de deixar tudo bonitinho :)
+⤷ programação é difícil, mas eu gosto de deixar tudo bonitinho :)
 
 ![](https://media.tenor.com/STjsyZzENwsAAAAj/y2k.gif)
 
@@ -13,7 +13,10 @@
 
 ![scratch](https://img.shields.io/badge/18anos-151515?style=for-the-badge&logo=nike&logoColor=white)
 ![scratch](https://img.shields.io/badge/entp-151515?style=for-the-badge&logo=nike&logoColor=white)
-![scratch](https://img.shields.io/badge/gatitos-151515?style=for-the-badge&logo=nike&logoColor=white)
+![scratch](https://img.shields.io/badge/chalé11-151515?style=for-the-badge&logo=nike&logoColor=white)
+![scratch](https://img.shields.io/badge/sanguíneo+fleumático-151515?style=for-the-badge&logo=nike&logoColor=white)
+
+
 
 ## ⇢ github status
 ![natyy200 stats](https://github-readme-stats.vercel.app/api?username=kilycz&theme=material-palenight&show_icons=true&hide_border=false&count_private=true&title_color=ffffff&text_color=ffb3b3_color=008080)
