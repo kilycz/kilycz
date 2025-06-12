@@ -11,7 +11,7 @@
 
 # super relevante!!
 
-![scratch](https://img.shields.io/badge/17anos-151515?style=for-the-badge&logo=nike&logoColor=white)
+![scratch](https://img.shields.io/badge/18anos-151515?style=for-the-badge&logo=nike&logoColor=white)
 ![scratch](https://img.shields.io/badge/entp-151515?style=for-the-badge&logo=nike&logoColor=white)
 ![scratch](https://img.shields.io/badge/gatitos-151515?style=for-the-badge&logo=nike&logoColor=white)
 
