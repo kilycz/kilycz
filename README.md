@@ -7,7 +7,7 @@
 
 ⤷ programação é difícil, mas eu gosto de deixar tudo bonitinho :)
 
-![](https://media.tenor.com/STjsyZzENwsAAAAj/y2k.gif)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1YPeX8_FSSXjrb2fM8zz7jnfgyUQnmc8SXZ_n7BLZ4hauNtr2mNn-tm8B-59ZD497RQk&usqp=CAU)
 
 # super relevante!!
 
