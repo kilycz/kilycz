@@ -3,9 +3,9 @@
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=151515&width=800&lines=﹒⌗﹒🦇﹒౨ৎ˚seja+bem+vindo!"/>
 
-༘⋆📼˚ ༘ ೀ⋆｡˚「 ✦ eu sou a Kimberly ✦ 」
+༘⋆📼˚ ༘ ೀ⋆｡˚「 ✦ eu sou a lei ✦ 」
 
-⤷ programação é difícil, mas eu gosto de deixar tudo bonitinho :)
+⤷ quem é a maior? Ygona
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1YPeX8_FSSXjrb2fM8zz7jnfgyUQnmc8SXZ_n7BLZ4hauNtr2mNn-tm8B-59ZD497RQk&usqp=CAU)
 
