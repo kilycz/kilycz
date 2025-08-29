@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=151515&height=70&section=header"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=151515&width=800&lines=﹒⌗﹒🦇﹒౨ৎ˚seja+bem+vindo!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=151515&width=800&lines=seja+bem+vindo!"/>
 
 ༘⋆📼˚ ༘ ೀ⋆｡˚「 ✦ eu sou a lei ✦ 」
 
