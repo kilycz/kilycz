@@ -14,7 +14,7 @@
 ![scratch](https://img.shields.io/badge/18anos-151515?style=for-the-badge&logo=nike&logoColor=white)
 ![scratch](https://img.shields.io/badge/entp-151515?style=for-the-badge&logo=nike&logoColor=white)
 ![scratch](https://img.shields.io/badge/chalé11-151515?style=for-the-badge&logo=nike&logoColor=white)
-![scratch](https://img.shields.io/badge/sanguíneo+fleumático-151515?style=for-the-badge&logo=nike&logoColor=white)
+![scratch](https://img.shields.io/badge/sanguíneo+melancólico-151515?style=for-the-badge&logo=nike&logoColor=white)
 
 
 
